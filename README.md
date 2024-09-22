@@ -1,5 +1,5 @@
 # Ex.No: 03   COMPUTE THE AUTO FUNCTION(ACF)
-## Develped by : Manoj M
+## Name : Manoj M
 ## Reg no : 212221240027
 
 ### AIM:
